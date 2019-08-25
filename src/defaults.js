@@ -143,7 +143,10 @@
             'font: 10px arial, san serif;' +
             'text-align: left;' +
             'white-space: nowrap;' +
-            'padding: 5px;' +
+            'padding-top: 1px;' +
+            'padding-left: 6px;' + 
+            'padding-right: 15px;' +
+            'padding-bottom: 12px;' +
             'border: 1px solid white;' +
             'box-sizing: content-box;' +
             'z-index: 10000;' +
